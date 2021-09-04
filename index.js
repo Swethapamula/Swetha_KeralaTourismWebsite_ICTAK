@@ -54,7 +54,6 @@ function ValidateLoginpwd()
        return false;
      }
 
-     alert("You entered valid Password")
      return true;
 
 
