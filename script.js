@@ -32,7 +32,7 @@ function phonevalidate() {
 
 if (validRegex.test(emailid))
 {
-    alert("valid Email id");
+  
     return true;
 }
 else{
